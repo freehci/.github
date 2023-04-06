@@ -2,7 +2,7 @@
 
 ## Preface
 
-There is a significant lack of low-threshold solutions for HCI. Several alternatives exist, but they often come at a price that doesn't fit into the tight budgets of companies lacking the necessary financial resources and IT expertise. The FreeHCI project was started in response to existing solutions such as Dell EMC VxRail, Nutanix, and HPE Simplivity. The project aims to address the problems and challenges associated with today's market leaders and become a visible contender that challenges established players, demonstrating how new technology, fresh ideas, and a forward-thinking open-source community can provide customers with a better experience.
+There is a significant lack of low-threshold solutions for HCI. Several alternatives exist, but they often come at a price that doesn't fit into the tight budgets of companies lacking the necessary financial resources and IT expertise. The FreeHCI project was started in response to existing solutions such as Dell EMC VxRail, Nutanix, and HPE Simplivity. The project aims to address the problems and challenges associated with today's market leaders and become a visible contender that challenges established players, demonstrating how new technology, fresh ideas, and a forward-thinking open-source community can provide customers with a better experience. Please note that this is an work in progress project. No mechanisms for deploying and maintaining your environment is implemented yet. We will let you know when you can download a working version, so you can explore the new functionality and experience the possibilities the product offers.
 
 ## Technology
 
