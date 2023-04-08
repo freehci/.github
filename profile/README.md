@@ -10,7 +10,7 @@ We are strong proponents of openness in how things are built. Openness about pot
 
 ## Goals
 
-Our goal is to enable users to set up hyper-converged infrastructure (HCI) without prior knowledge of how to do so. FreeHCI leverages existing technologies to keep hardware up-to-date and will inform you of the supported technologies for your hardware. For vSphere, we rely on VMware's own HCL lists.Free HCI offers support for industry standards such as Redfish, SSH, REST, IPMI. In addition, it supports integration with market leaders such as VMware vSphere, Microsoft Azure, Amazon AWS, oVirt, Open Stack, and more. The project aims to offer a platform-independent HCI solution, and then integrate with the aforementioned market leaders.
+Our goal is to enable users to set up hyper-converged infrastructure (HCI) without prior knowledge of how to do so. FreeHCI leverages existing technologies to keep hardware up-to-date and will inform you of the supported technologies for your hardware. For vSphere, we rely on VMware's own HCL lists.
 
 ## Getting Started
 
