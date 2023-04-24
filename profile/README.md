@@ -26,5 +26,16 @@ Once you have added the servers you want to use for your HCI, you will have the 
 Both the project and the company are marketed under the same name. We cannot rule out that the company and the product will be subject to changes, both in terms of organization and name, but the project will remain open-source and accessible to the public.
 
 ## Screenshots
+![Image description](https://github.com/freehci/freehci-appliance/blob/main/screenshots/rack-view-power-control.png?raw=true)
+
+![Image description](https://github.com/freehci/freehci-appliance/blob/main/screenshots/rack-view-error-log.png?raw=true)
 
 ![Image description](https://github.com/freehci/freehci-appliance/blob/main/screenshots/rack-view-server-view.png?raw=true)
+
+![Image description](https://github.com/freehci/freehci-appliance/blob/main/screenshots/User-management.png?raw=true)
+
+![Image description](https://github.com/freehci/freehci-appliance/blob/main/screenshots/User-management-mfa.png?raw=true)
+
+![Image description](https://github.com/freehci/freehci-appliance/blob/main/screenshots/User-management-groups.png?raw=true)
+
+![Image description](https://github.com/freehci/freehci-appliance/blob/main/screenshots/User-management-applications.png?raw=true)
