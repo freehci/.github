@@ -27,4 +27,4 @@ Both the project and the company are marketed under the same name. We cannot rul
 
 ## Screenshots
 
-![Image description](./freehci/freehci-appliance/screenshots/rack-view-server-view.png)
+![Image description](https://github.com/freehci/freehci-appliance/blob/main/screenshots/rack-view-server-view.png?raw=true)
